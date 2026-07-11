@@ -1,0 +1,402 @@
+feedback_id,customer_id,feature_id,rating,feedback_category,comment,sentiment,created_at
+FB001,C001,F002,4,General Satisfaction,Easy to use.,Positive,2026-06-23
+FB002,C001,F003,5,Feature Request,Would like more customization.,Positive,2026-02-25
+FB003,C001,F004,4,Reliability,Excellent AI suggestions.,Positive,2026-04-18
+FB004,C001,F005,4,General Satisfaction,Really improves productivity.,Positive,2026-03-29
+FB005,C001,F006,5,General Satisfaction,Easy to use.,Positive,2026-04-08
+FB006,C001,F008,3,Reliability,Satisfactory.,Neutral,2026-01-12
+FB007,C002,F003,4,UI/UX,Easy to use.,Positive,2026-03-01
+FB008,C002,F005,5,Feature Request,Needs additional export formats.,Positive,2026-02-23
+FB009,C002,F006,3,Reliability,Average experience.,Neutral,2026-01-19
+FB010,C002,F008,3,General Satisfaction,Useful but could be improved.,Neutral,2026-04-08
+FB011,C002,F009,1,UI/UX,Needs better performance.,Negative,2026-01-15
+FB012,C002,F014,5,UI/UX,Works perfectly.,Positive,2026-01-17
+FB013,C002,F015,2,Reliability,Response time is too long.,Negative,2026-04-12
+FB014,C002,F020,5,Reliability,Highly recommended.,Positive,2026-04-20
+FB015,C003,F003,2,Performance,Too slow.,Negative,2026-01-29
+FB016,C003,F006,5,Reliability,Easy to use.,Positive,2026-04-09
+FB017,C004,F001,3,Reliability,No major issues.,Neutral,2026-03-10
+FB018,C004,F007,5,Reliability,Excellent experience.,Positive,2026-05-10
+FB019,C005,F005,4,Feature Request,Please add more filtering options.,Positive,2026-05-19
+FB020,C005,F015,5,General Satisfaction,Very useful feature.,Positive,2026-03-03
+FB021,C005,F018,4,Reliability,Excellent experience.,Positive,2026-02-02
+FB022,C006,F003,5,Reliability,Saves me a lot of time.,Positive,2026-03-21
+FB023,C006,F014,4,Reliability,Excellent AI suggestions.,Positive,2026-02-28
+FB024,C006,F017,3,General Satisfaction,Good overall.,Neutral,2026-01-18
+FB025,C007,F003,5,General Satisfaction,Highly recommended.,Positive,2026-05-28
+FB026,C007,F016,5,UI/UX,Really improves productivity.,Positive,2026-04-16
+FB027,C008,F008,5,General Satisfaction,Saves me a lot of time.,Positive,2026-02-19
+FB028,C008,F009,5,General Satisfaction,Works perfectly.,Positive,2026-04-29
+FB029,C008,F010,2,UI/UX,Sometimes crashes.,Negative,2026-01-13
+FB030,C008,F014,4,General Satisfaction,Really improves productivity.,Positive,2026-05-05
+FB031,C008,F020,5,UI/UX,Great implementation.,Positive,2026-03-15
+FB032,C009,F016,4,Reliability,Excellent AI suggestions.,Positive,2026-01-16
+FB033,C010,F002,3,Reliability,Acceptable performance.,Neutral,2026-05-16
+FB034,C010,F004,1,Performance,Sometimes crashes.,Negative,2026-06-02
+FB035,C010,F008,2,Performance,Export fails occasionally.,Negative,2026-05-29
+FB036,C011,F001,3,General Satisfaction,Satisfactory.,Neutral,2026-04-12
+FB037,C011,F003,5,General Satisfaction,Very useful feature.,Positive,2026-04-28
+FB038,C011,F005,4,General Satisfaction,Very intuitive interface.,Positive,2026-01-18
+FB039,C011,F009,5,Reliability,Excellent AI suggestions.,Positive,2026-01-03
+FB040,C011,F016,1,Performance,UI is confusing.,Negative,2026-01-30
+FB041,C012,F002,4,Reliability,Very intuitive interface.,Positive,2026-02-22
+FB042,C012,F005,4,Feature Request,Dark mode would be useful.,Positive,2026-03-12
+FB043,C012,F006,4,Reliability,Works perfectly.,Positive,2026-02-11
+FB044,C012,F008,4,General Satisfaction,Easy to use.,Positive,2026-06-26
+FB045,C013,F002,5,UI/UX,Very useful feature.,Positive,2026-04-02
+FB046,C013,F003,4,Reliability,Really improves productivity.,Positive,2026-06-08
+FB047,C013,F005,1,Performance,Search results are inconsistent.,Negative,2026-04-16
+FB048,C013,F006,3,UI/UX,Acceptable performance.,Neutral,2026-04-16
+FB049,C013,F017,3,General Satisfaction,Useful but could be improved.,Neutral,2026-01-10
+FB050,C014,F003,3,UI/UX,Acceptable performance.,Neutral,2026-02-28
+FB051,C014,F004,3,UI/UX,Satisfactory.,Neutral,2026-03-13
+FB052,C014,F007,3,UI/UX,Average experience.,Neutral,2026-05-18
+FB053,C014,F016,2,Performance,UI is confusing.,Negative,2026-01-10
+FB054,C015,F001,5,UI/UX,Highly recommended.,Positive,2026-05-11
+FB055,C015,F003,3,Feature Request,Would like more customization.,Neutral,2026-04-22
+FB056,C015,F004,1,Bug,Expected more functionality.,Negative,2026-01-18
+FB057,C015,F008,3,General Satisfaction,Average experience.,Neutral,2026-03-18
+FB058,C015,F009,3,UI/UX,Useful but could be improved.,Neutral,2026-06-28
+FB059,C015,F016,5,Reliability,Really improves productivity.,Positive,2026-06-23
+FB060,C015,F019,5,Reliability,Very useful feature.,Positive,2026-03-19
+FB061,C016,F001,5,UI/UX,Great implementation.,Positive,2026-04-24
+FB062,C016,F003,4,UI/UX,Excellent AI suggestions.,Positive,2026-06-19
+FB063,C016,F009,3,General Satisfaction,Average experience.,Neutral,2026-03-21
+FB064,C016,F010,4,General Satisfaction,Saves me a lot of time.,Positive,2026-05-02
+FB065,C017,F002,3,General Satisfaction,Acceptable performance.,Neutral,2026-04-19
+FB066,C017,F003,3,UI/UX,Works as expected.,Neutral,2026-05-23
+FB067,C017,F004,3,UI/UX,Good overall.,Neutral,2026-04-29
+FB068,C018,F002,3,Reliability,Useful but could be improved.,Neutral,2026-05-21
+FB069,C018,F004,5,UI/UX,Works perfectly.,Positive,2026-03-05
+FB070,C018,F006,3,UI/UX,Average experience.,Neutral,2026-03-03
+FB071,C018,F007,5,General Satisfaction,Works perfectly.,Positive,2026-03-27
+FB072,C018,F008,4,General Satisfaction,Saves me a lot of time.,Positive,2026-04-09
+FB073,C018,F013,5,UI/UX,Very useful feature.,Positive,2026-02-22
+FB074,C018,F019,3,Reliability,Works as expected.,Neutral,2026-05-28
+FB075,C018,F020,5,UI/UX,Really improves productivity.,Positive,2026-04-18
+FB076,C019,F007,5,General Satisfaction,Really improves productivity.,Positive,2026-03-28
+FB077,C020,F005,5,Feature Request,Needs additional export formats.,Positive,2026-04-08
+FB078,C022,F001,3,General Satisfaction,Satisfactory.,Neutral,2026-02-27
+FB079,C022,F003,4,General Satisfaction,Very useful feature.,Positive,2026-06-09
+FB080,C022,F004,4,Reliability,Saves me a lot of time.,Positive,2026-04-30
+FB081,C022,F007,3,General Satisfaction,No major issues.,Neutral,2026-06-05
+FB082,C022,F016,5,General Satisfaction,Highly recommended.,Positive,2026-01-07
+FB083,C023,F009,4,General Satisfaction,Works perfectly.,Positive,2026-06-25
+FB084,C023,F011,1,Bug,Expected more functionality.,Negative,2026-06-19
+FB085,C023,F020,2,UI/UX,Search results are inconsistent.,Negative,2026-04-22
+FB086,C024,F001,5,Reliability,Excellent AI suggestions.,Positive,2026-05-04
+FB087,C024,F007,4,UI/UX,Great implementation.,Positive,2026-03-04
+FB088,C025,F001,5,General Satisfaction,Very intuitive interface.,Positive,2026-03-08
+FB089,C025,F002,3,Reliability,Satisfactory.,Neutral,2026-05-23
+FB090,C025,F003,3,Feature Request,More integrations would help.,Neutral,2026-04-15
+FB091,C025,F004,3,Reliability,Useful but could be improved.,Neutral,2026-06-15
+FB092,C025,F005,4,Feature Request,Please add more filtering options.,Positive,2026-04-14
+FB093,C025,F006,5,UI/UX,Excellent AI suggestions.,Positive,2026-05-16
+FB094,C025,F007,2,Bug,Response time is too long.,Negative,2026-03-11
+FB095,C025,F011,4,UI/UX,Easy to use.,Positive,2026-05-18
+FB096,C025,F018,3,UI/UX,Average experience.,Neutral,2026-05-31
+FB097,C026,F004,4,UI/UX,Excellent experience.,Positive,2026-03-19
+FB098,C026,F009,5,General Satisfaction,Very useful feature.,Positive,2026-05-22
+FB099,C026,F016,2,Performance,Too slow.,Negative,2026-05-27
+FB100,C027,F001,5,General Satisfaction,Very useful feature.,Positive,2026-03-06
+FB101,C027,F003,3,General Satisfaction,No major issues.,Neutral,2026-06-11
+FB102,C027,F005,3,General Satisfaction,Good overall.,Neutral,2026-01-31
+FB103,C027,F009,3,UI/UX,Useful but could be improved.,Neutral,2026-04-24
+FB104,C027,F010,5,UI/UX,Highly recommended.,Positive,2026-06-08
+FB105,C027,F016,1,Performance,Export fails occasionally.,Negative,2026-03-09
+FB106,C028,F001,4,General Satisfaction,Very useful feature.,Positive,2026-04-15
+FB107,C028,F013,3,Reliability,Acceptable performance.,Neutral,2026-04-27
+FB108,C028,F014,5,Reliability,Highly recommended.,Positive,2026-06-19
+FB109,C028,F016,4,Reliability,Excellent experience.,Positive,2026-03-10
+FB110,C028,F020,5,Reliability,Highly recommended.,Positive,2026-03-15
+FB111,C029,F009,5,General Satisfaction,Highly recommended.,Positive,2026-01-11
+FB112,C030,F006,4,Reliability,Works perfectly.,Positive,2026-05-28
+FB113,C030,F007,2,Bug,UI is confusing.,Negative,2026-02-16
+FB114,C031,F016,5,Reliability,Great implementation.,Positive,2026-03-15
+FB115,C032,F001,3,General Satisfaction,Useful but could be improved.,Neutral,2026-01-23
+FB116,C032,F003,5,General Satisfaction,Excellent AI suggestions.,Positive,2026-04-29
+FB117,C032,F004,5,Reliability,Great implementation.,Positive,2026-06-10
+FB118,C032,F005,5,UI/UX,Great implementation.,Positive,2026-06-28
+FB119,C032,F006,4,Reliability,Excellent experience.,Positive,2026-03-21
+FB120,C032,F007,4,General Satisfaction,Easy to use.,Positive,2026-04-29
+FB121,C032,F019,2,UI/UX,UI is confusing.,Negative,2026-04-17
+FB122,C033,F003,5,Feature Request,Please improve AI responses.,Positive,2026-05-11
+FB123,C033,F010,5,UI/UX,Excellent AI suggestions.,Positive,2026-03-10
+FB124,C033,F016,5,General Satisfaction,Great implementation.,Positive,2026-05-18
+FB125,C034,F001,5,General Satisfaction,Saves me a lot of time.,Positive,2026-05-27
+FB126,C034,F003,3,UI/UX,Average experience.,Neutral,2026-05-02
+FB127,C034,F004,3,UI/UX,Average experience.,Neutral,2026-06-16
+FB128,C034,F006,5,General Satisfaction,Great implementation.,Positive,2026-01-26
+FB129,C034,F007,4,UI/UX,Excellent experience.,Positive,2026-01-20
+FB130,C034,F008,2,UI/UX,Expected more functionality.,Negative,2026-06-16
+FB131,C034,F009,5,UI/UX,Great implementation.,Positive,2026-05-19
+FB132,C034,F012,5,General Satisfaction,Easy to use.,Positive,2026-04-22
+FB133,C034,F017,5,General Satisfaction,Very useful feature.,Positive,2026-03-25
+FB134,C035,F002,4,General Satisfaction,Excellent AI suggestions.,Positive,2026-04-16
+FB135,C035,F004,4,Reliability,Really improves productivity.,Positive,2026-06-08
+FB136,C035,F006,4,General Satisfaction,Great implementation.,Positive,2026-06-13
+FB137,C035,F007,4,UI/UX,Works perfectly.,Positive,2026-06-23
+FB138,C035,F009,2,UI/UX,Expected more functionality.,Negative,2026-06-26
+FB139,C035,F012,3,General Satisfaction,Useful but could be improved.,Neutral,2026-05-04
+FB140,C035,F016,5,Reliability,Works perfectly.,Positive,2026-06-29
+FB141,C035,F017,2,Bug,Too slow.,Negative,2026-05-25
+FB142,C036,F016,3,General Satisfaction,Average experience.,Neutral,2026-02-18
+FB143,C038,F007,5,General Satisfaction,Saves me a lot of time.,Positive,2026-02-03
+FB144,C038,F020,5,UI/UX,Very intuitive interface.,Positive,2026-01-30
+FB145,C039,F002,3,General Satisfaction,Acceptable performance.,Neutral,2026-06-23
+FB146,C040,F001,5,General Satisfaction,Works perfectly.,Positive,2026-05-18
+FB147,C040,F002,5,Reliability,Really improves productivity.,Positive,2026-06-13
+FB148,C040,F005,4,Reliability,Very intuitive interface.,Positive,2026-06-06
+FB149,C040,F006,5,Reliability,Works perfectly.,Positive,2026-06-16
+FB150,C040,F007,4,UI/UX,Great implementation.,Positive,2026-01-30
+FB151,C040,F008,3,General Satisfaction,Useful but could be improved.,Neutral,2026-04-27
+FB152,C040,F009,2,UI/UX,Search results are inconsistent.,Negative,2026-04-17
+FB153,C040,F017,3,General Satisfaction,Useful but could be improved.,Neutral,2026-04-24
+FB154,C041,F003,5,Feature Request,Needs additional export formats.,Positive,2026-02-18
+FB155,C041,F016,4,General Satisfaction,Very intuitive interface.,Positive,2026-03-04
+FB156,C043,F004,1,UI/UX,UI is confusing.,Negative,2026-02-14
+FB157,C043,F005,1,Performance,Needs better performance.,Negative,2026-03-02
+FB158,C043,F007,4,Reliability,Really improves productivity.,Positive,2026-05-15
+FB159,C043,F009,5,UI/UX,Excellent AI suggestions.,Positive,2026-06-01
+FB160,C043,F016,4,Reliability,Excellent AI suggestions.,Positive,2026-03-19
+FB161,C044,F002,1,Bug,Expected more functionality.,Negative,2026-04-20
+FB162,C044,F003,5,Feature Request,Would like more customization.,Positive,2026-03-24
+FB163,C044,F004,5,Reliability,Highly recommended.,Positive,2026-05-21
+FB164,C044,F005,5,Reliability,Really improves productivity.,Positive,2026-01-26
+FB165,C044,F006,4,UI/UX,Great implementation.,Positive,2026-02-28
+FB166,C044,F007,3,UI/UX,Useful but could be improved.,Neutral,2026-01-25
+FB167,C044,F009,5,UI/UX,Excellent experience.,Positive,2026-06-25
+FB168,C044,F016,3,General Satisfaction,Useful but could be improved.,Neutral,2026-01-25
+FB169,C044,F018,4,Reliability,Excellent AI suggestions.,Positive,2026-05-24
+FB170,C044,F019,5,Reliability,Really improves productivity.,Positive,2026-01-14
+FB171,C045,F003,4,Feature Request,Dark mode would be useful.,Positive,2026-02-27
+FB172,C045,F010,4,UI/UX,Highly recommended.,Positive,2026-02-27
+FB173,C046,F001,2,Performance,Search results are inconsistent.,Negative,2026-03-11
+FB174,C046,F003,4,Feature Request,Please add more filtering options.,Positive,2026-05-25
+FB175,C046,F005,4,Feature Request,Please improve AI responses.,Positive,2026-02-25
+FB176,C046,F006,4,UI/UX,Works perfectly.,Positive,2026-03-25
+FB177,C046,F008,4,General Satisfaction,Excellent experience.,Positive,2026-06-08
+FB178,C046,F009,5,Reliability,Really improves productivity.,Positive,2026-05-05
+FB179,C046,F016,4,UI/UX,Really improves productivity.,Positive,2026-01-29
+FB180,C046,F019,3,UI/UX,No major issues.,Neutral,2026-06-20
+FB181,C046,F020,4,General Satisfaction,Saves me a lot of time.,Positive,2026-03-19
+FB182,C047,F009,5,Reliability,Really improves productivity.,Positive,2026-02-14
+FB183,C047,F010,4,Reliability,Excellent AI suggestions.,Positive,2026-06-21
+FB184,C047,F014,3,General Satisfaction,Useful but could be improved.,Neutral,2026-01-05
+FB185,C047,F016,5,Reliability,Really improves productivity.,Positive,2026-06-13
+FB186,C047,F020,5,General Satisfaction,Highly recommended.,Positive,2026-04-28
+FB187,C048,F005,3,Feature Request,Please improve AI responses.,Neutral,2026-04-13
+FB188,C048,F008,5,Reliability,Very intuitive interface.,Positive,2026-02-26
+FB189,C048,F009,4,Reliability,Excellent AI suggestions.,Positive,2026-02-19
+FB190,C048,F017,4,General Satisfaction,Highly recommended.,Positive,2026-02-09
+FB191,C049,F001,3,General Satisfaction,Acceptable performance.,Neutral,2026-06-10
+FB192,C049,F003,5,Reliability,Highly recommended.,Positive,2026-03-24
+FB193,C049,F006,5,Reliability,Works perfectly.,Positive,2026-03-12
+FB194,C049,F010,5,UI/UX,Very useful feature.,Positive,2026-01-15
+FB195,C049,F015,3,General Satisfaction,No major issues.,Neutral,2026-06-02
+FB196,C049,F016,4,UI/UX,Highly recommended.,Positive,2026-06-16
+FB197,C049,F017,4,General Satisfaction,Great implementation.,Positive,2026-01-27
+FB198,C050,F004,4,General Satisfaction,Great implementation.,Positive,2026-04-23
+FB199,C050,F005,5,UI/UX,Really improves productivity.,Positive,2026-04-15
+FB200,C050,F006,3,General Satisfaction,Acceptable performance.,Neutral,2026-06-11
+FB201,C050,F008,5,UI/UX,Works perfectly.,Positive,2026-06-18
+FB202,C050,F016,4,UI/UX,Works perfectly.,Positive,2026-06-17
+FB203,C050,F018,4,UI/UX,Excellent AI suggestions.,Positive,2026-04-07
+FB204,C051,F001,4,Reliability,Really improves productivity.,Positive,2026-05-11
+FB205,C051,F003,4,UI/UX,Great implementation.,Positive,2026-02-19
+FB206,C051,F005,4,Feature Request,Would like more customization.,Positive,2026-05-10
+FB207,C051,F016,4,Reliability,Really improves productivity.,Positive,2026-02-09
+FB208,C051,F017,3,Reliability,Acceptable performance.,Neutral,2026-02-12
+FB209,C052,F002,4,UI/UX,Highly recommended.,Positive,2026-03-14
+FB210,C052,F009,5,General Satisfaction,Very intuitive interface.,Positive,2026-06-23
+FB211,C053,F003,5,Reliability,Easy to use.,Positive,2026-05-13
+FB212,C053,F006,3,UI/UX,Useful but could be improved.,Neutral,2026-05-12
+FB213,C053,F009,4,UI/UX,Very intuitive interface.,Positive,2026-01-07
+FB214,C053,F010,5,General Satisfaction,Really improves productivity.,Positive,2026-01-21
+FB215,C053,F015,2,Reliability,Search results are inconsistent.,Negative,2026-01-10
+FB216,C053,F016,3,Reliability,Acceptable performance.,Neutral,2026-02-05
+FB217,C054,F002,4,General Satisfaction,Works perfectly.,Positive,2026-02-25
+FB218,C054,F004,5,General Satisfaction,Works perfectly.,Positive,2026-03-02
+FB219,C054,F005,5,Reliability,Great implementation.,Positive,2026-01-17
+FB220,C054,F006,1,UI/UX,Export fails occasionally.,Negative,2026-02-06
+FB221,C054,F007,5,General Satisfaction,Highly recommended.,Positive,2026-04-17
+FB222,C054,F008,3,Reliability,Satisfactory.,Neutral,2026-01-18
+FB223,C054,F014,3,Reliability,No major issues.,Neutral,2026-01-06
+FB224,C054,F016,5,UI/UX,Works perfectly.,Positive,2026-01-05
+FB225,C054,F018,4,Reliability,Easy to use.,Positive,2026-05-29
+FB226,C055,F004,3,Reliability,Good overall.,Neutral,2026-06-25
+FB227,C055,F018,2,Performance,UI is confusing.,Negative,2026-02-21
+FB228,C056,F001,4,UI/UX,Works perfectly.,Positive,2026-05-12
+FB229,C056,F003,3,General Satisfaction,Acceptable performance.,Neutral,2026-06-15
+FB230,C056,F004,4,Reliability,Very intuitive interface.,Positive,2026-03-11
+FB231,C056,F005,5,UI/UX,Very intuitive interface.,Positive,2026-02-17
+FB232,C056,F006,5,General Satisfaction,Really improves productivity.,Positive,2026-01-21
+FB233,C056,F007,1,Bug,Needs better performance.,Negative,2026-01-27
+FB234,C056,F009,3,UI/UX,Useful but could be improved.,Neutral,2026-06-04
+FB235,C056,F016,5,UI/UX,Great implementation.,Positive,2026-01-11
+FB236,C057,F003,4,Feature Request,More integrations would help.,Positive,2026-04-14
+FB237,C057,F004,3,Reliability,Good overall.,Neutral,2026-01-08
+FB238,C057,F005,5,Feature Request,Would like more customization.,Positive,2026-03-02
+FB239,C057,F008,5,Reliability,Very useful feature.,Positive,2026-06-04
+FB240,C057,F009,5,UI/UX,Great implementation.,Positive,2026-01-20
+FB241,C057,F016,5,UI/UX,Works perfectly.,Positive,2026-03-05
+FB242,C058,F002,5,Reliability,Easy to use.,Positive,2026-03-09
+FB243,C058,F014,5,General Satisfaction,Easy to use.,Positive,2026-02-04
+FB244,C059,F001,5,Reliability,Very intuitive interface.,Positive,2026-01-17
+FB245,C059,F005,4,Reliability,Excellent experience.,Positive,2026-04-03
+FB246,C059,F016,4,General Satisfaction,Great implementation.,Positive,2026-01-07
+FB247,C060,F001,5,Reliability,Excellent experience.,Positive,2026-06-06
+FB248,C060,F003,5,UI/UX,Highly recommended.,Positive,2026-01-19
+FB249,C060,F009,4,UI/UX,Great implementation.,Positive,2026-06-24
+FB250,C060,F011,3,Reliability,Average experience.,Neutral,2026-05-31
+FB251,C060,F013,2,UI/UX,Too slow.,Negative,2026-02-01
+FB252,C060,F016,4,UI/UX,Excellent AI suggestions.,Positive,2026-03-14
+FB253,C060,F020,5,General Satisfaction,Works perfectly.,Positive,2026-06-07
+FB254,C061,F003,3,Feature Request,More integrations would help.,Neutral,2026-06-09
+FB255,C061,F016,5,Reliability,Saves me a lot of time.,Positive,2026-05-27
+FB256,C062,F015,5,UI/UX,Great implementation.,Positive,2026-04-29
+FB257,C063,F001,5,Reliability,Very intuitive interface.,Positive,2026-04-13
+FB258,C063,F002,4,UI/UX,Saves me a lot of time.,Positive,2026-04-30
+FB259,C063,F003,4,Feature Request,Needs additional export formats.,Positive,2026-04-09
+FB260,C063,F005,1,Bug,Needs better performance.,Negative,2026-02-18
+FB261,C063,F007,5,UI/UX,Great implementation.,Positive,2026-01-06
+FB262,C063,F008,5,General Satisfaction,Saves me a lot of time.,Positive,2026-05-30
+FB263,C063,F009,5,Reliability,Great implementation.,Positive,2026-03-15
+FB264,C064,F001,2,Bug,Needs better performance.,Negative,2026-01-12
+FB265,C064,F007,3,General Satisfaction,Useful but could be improved.,Neutral,2026-05-10
+FB266,C065,F003,5,UI/UX,Excellent AI suggestions.,Positive,2026-04-04
+FB267,C065,F005,5,General Satisfaction,Very useful feature.,Positive,2026-02-05
+FB268,C065,F007,4,Reliability,Excellent AI suggestions.,Positive,2026-02-05
+FB269,C065,F008,4,UI/UX,Highly recommended.,Positive,2026-03-18
+FB270,C065,F009,5,Reliability,Highly recommended.,Positive,2026-03-18
+FB271,C065,F010,5,Reliability,Easy to use.,Positive,2026-04-17
+FB272,C065,F016,3,General Satisfaction,No major issues.,Neutral,2026-05-02
+FB273,C065,F017,3,Reliability,No major issues.,Neutral,2026-02-28
+FB274,C066,F003,5,Feature Request,More integrations would help.,Positive,2026-03-04
+FB275,C066,F004,1,Performance,Too slow.,Negative,2026-04-23
+FB276,C066,F005,4,Reliability,Great implementation.,Positive,2026-01-16
+FB277,C067,F002,4,UI/UX,Excellent AI suggestions.,Positive,2026-03-29
+FB278,C067,F003,5,General Satisfaction,Saves me a lot of time.,Positive,2026-03-13
+FB279,C067,F004,5,UI/UX,Saves me a lot of time.,Positive,2026-06-26
+FB280,C067,F005,5,Reliability,Works perfectly.,Positive,2026-03-15
+FB281,C067,F006,3,UI/UX,Useful but could be improved.,Neutral,2026-03-30
+FB282,C067,F018,4,UI/UX,Great implementation.,Positive,2026-06-17
+FB283,C067,F019,4,Reliability,Works perfectly.,Positive,2026-05-24
+FB284,C068,F002,3,Reliability,Good overall.,Neutral,2026-03-04
+FB285,C068,F004,1,UI/UX,Export fails occasionally.,Negative,2026-01-14
+FB286,C068,F005,5,Feature Request,Please add more filtering options.,Positive,2026-01-02
+FB287,C068,F008,3,UI/UX,Useful but could be improved.,Neutral,2026-06-16
+FB288,C068,F009,2,Bug,Too slow.,Negative,2026-01-23
+FB289,C068,F018,3,General Satisfaction,Good overall.,Neutral,2026-04-17
+FB290,C069,F002,2,Bug,Search results are inconsistent.,Negative,2026-03-16
+FB291,C069,F009,4,UI/UX,Works perfectly.,Positive,2026-04-27
+FB292,C070,F001,4,Reliability,Great implementation.,Positive,2026-06-15
+FB293,C070,F009,3,UI/UX,No major issues.,Neutral,2026-06-22
+FB294,C070,F016,2,Bug,Needs better performance.,Negative,2026-01-23
+FB295,C070,F020,2,Bug,Export fails occasionally.,Negative,2026-01-02
+FB296,C071,F001,5,UI/UX,Works perfectly.,Positive,2026-05-30
+FB297,C071,F003,4,Feature Request,Would like more customization.,Positive,2026-04-30
+FB298,C071,F004,5,Reliability,Easy to use.,Positive,2026-06-13
+FB299,C071,F009,4,General Satisfaction,Great implementation.,Positive,2026-02-09
+FB300,C072,F020,1,Performance,Export fails occasionally.,Negative,2026-05-27
+FB301,C074,F003,4,UI/UX,Highly recommended.,Positive,2026-01-15
+FB302,C074,F010,5,General Satisfaction,Saves me a lot of time.,Positive,2026-05-29
+FB303,C074,F012,4,Reliability,Very useful feature.,Positive,2026-01-18
+FB304,C074,F016,5,UI/UX,Really improves productivity.,Positive,2026-04-25
+FB305,C076,F001,4,Reliability,Saves me a lot of time.,Positive,2026-01-01
+FB306,C077,F001,4,General Satisfaction,Really improves productivity.,Positive,2026-06-07
+FB307,C077,F009,4,Reliability,Very useful feature.,Positive,2026-04-25
+FB308,C077,F012,3,UI/UX,Useful but could be improved.,Neutral,2026-03-01
+FB309,C077,F020,1,UI/UX,Needs better performance.,Negative,2026-05-28
+FB310,C078,F001,3,UI/UX,Good overall.,Neutral,2026-03-19
+FB311,C078,F006,5,General Satisfaction,Excellent AI suggestions.,Positive,2026-06-01
+FB312,C078,F020,4,UI/UX,Really improves productivity.,Positive,2026-02-17
+FB313,C079,F008,3,UI/UX,Works as expected.,Neutral,2026-05-24
+FB314,C079,F014,4,UI/UX,Very intuitive interface.,Positive,2026-01-24
+FB315,C079,F020,4,General Satisfaction,Saves me a lot of time.,Positive,2026-05-31
+FB316,C081,F001,1,UI/UX,Response time is too long.,Negative,2026-03-04
+FB317,C081,F005,5,UI/UX,Great implementation.,Positive,2026-05-17
+FB318,C081,F008,5,UI/UX,Easy to use.,Positive,2026-05-01
+FB319,C081,F011,5,UI/UX,Very useful feature.,Positive,2026-05-25
+FB320,C081,F015,3,Reliability,No major issues.,Neutral,2026-04-17
+FB321,C081,F017,4,UI/UX,Highly recommended.,Positive,2026-03-04
+FB322,C081,F020,3,Reliability,Satisfactory.,Neutral,2026-03-07
+FB323,C082,F002,3,Reliability,Useful but could be improved.,Neutral,2026-04-28
+FB324,C082,F003,4,Feature Request,Please improve AI responses.,Positive,2026-05-06
+FB325,C082,F004,3,Reliability,Works as expected.,Neutral,2026-05-15
+FB326,C082,F006,3,Reliability,Works as expected.,Neutral,2026-01-02
+FB327,C082,F008,3,General Satisfaction,Works as expected.,Neutral,2026-02-08
+FB328,C082,F009,5,General Satisfaction,Highly recommended.,Positive,2026-06-13
+FB329,C082,F016,5,Reliability,Great implementation.,Positive,2026-01-05
+FB330,C083,F001,4,General Satisfaction,Excellent AI suggestions.,Positive,2026-03-12
+FB331,C083,F002,5,General Satisfaction,Easy to use.,Positive,2026-01-25
+FB332,C083,F003,5,UI/UX,Really improves productivity.,Positive,2026-01-21
+FB333,C083,F004,4,Reliability,Saves me a lot of time.,Positive,2026-03-18
+FB334,C083,F005,3,Reliability,Acceptable performance.,Neutral,2026-01-09
+FB335,C083,F006,5,General Satisfaction,Very useful feature.,Positive,2026-06-29
+FB336,C083,F007,5,Reliability,Very intuitive interface.,Positive,2026-05-25
+FB337,C083,F015,2,UI/UX,Too slow.,Negative,2026-01-20
+FB338,C083,F020,4,General Satisfaction,Very intuitive interface.,Positive,2026-01-05
+FB339,C084,F005,4,Reliability,Really improves productivity.,Positive,2026-06-23
+FB340,C084,F007,3,General Satisfaction,Acceptable performance.,Neutral,2026-06-26
+FB341,C085,F001,4,UI/UX,Highly recommended.,Positive,2026-06-07
+FB342,C085,F010,5,UI/UX,Saves me a lot of time.,Positive,2026-04-02
+FB343,C085,F017,5,General Satisfaction,Highly recommended.,Positive,2026-03-17
+FB344,C086,F003,4,UI/UX,Very intuitive interface.,Positive,2026-01-28
+FB345,C086,F005,2,Bug,UI is confusing.,Negative,2026-01-27
+FB346,C086,F006,5,Reliability,Excellent AI suggestions.,Positive,2026-05-12
+FB347,C086,F007,5,Reliability,Easy to use.,Positive,2026-06-02
+FB348,C086,F009,5,UI/UX,Really improves productivity.,Positive,2026-01-22
+FB349,C086,F016,1,UI/UX,Search results are inconsistent.,Negative,2026-06-25
+FB350,C087,F004,5,General Satisfaction,Easy to use.,Positive,2026-02-12
+FB351,C087,F018,4,Reliability,Great implementation.,Positive,2026-06-02
+FB352,C088,F010,5,UI/UX,Great implementation.,Positive,2026-03-27
+FB353,C089,F001,4,UI/UX,Very intuitive interface.,Positive,2026-02-15
+FB354,C089,F004,3,UI/UX,No major issues.,Neutral,2026-03-04
+FB355,C089,F005,5,Reliability,Saves me a lot of time.,Positive,2026-06-01
+FB356,C089,F007,3,General Satisfaction,Average experience.,Neutral,2026-04-29
+FB357,C089,F009,3,Reliability,Works as expected.,Neutral,2026-04-15
+FB358,C089,F016,5,General Satisfaction,Works perfectly.,Positive,2026-06-18
+FB359,C089,F018,5,General Satisfaction,Great implementation.,Positive,2026-06-03
+FB360,C089,F019,5,Reliability,Very useful feature.,Positive,2026-04-03
+FB361,C090,F018,5,General Satisfaction,Highly recommended.,Positive,2026-01-12
+FB362,C091,F003,2,Bug,Sometimes crashes.,Negative,2026-01-03
+FB363,C091,F004,4,UI/UX,Very intuitive interface.,Positive,2026-04-11
+FB364,C091,F005,4,General Satisfaction,Great implementation.,Positive,2026-01-27
+FB365,C091,F006,1,Performance,Search results are inconsistent.,Negative,2026-03-31
+FB366,C091,F007,4,Reliability,Great implementation.,Positive,2026-03-31
+FB367,C091,F016,3,UI/UX,Works as expected.,Neutral,2026-03-18
+FB368,C091,F019,3,General Satisfaction,Acceptable performance.,Neutral,2026-03-29
+FB369,C092,F004,1,UI/UX,Search results are inconsistent.,Negative,2026-05-22
+FB370,C092,F005,5,Feature Request,Dark mode would be useful.,Positive,2026-06-11
+FB371,C092,F006,3,UI/UX,Useful but could be improved.,Neutral,2026-01-08
+FB372,C093,F001,4,General Satisfaction,Works perfectly.,Positive,2026-06-30
+FB373,C093,F003,4,General Satisfaction,Great implementation.,Positive,2026-01-30
+FB374,C093,F005,3,Reliability,Satisfactory.,Neutral,2026-06-02
+FB375,C093,F006,4,UI/UX,Very intuitive interface.,Positive,2026-04-28
+FB376,C093,F007,3,Reliability,Acceptable performance.,Neutral,2026-03-18
+FB377,C093,F014,4,General Satisfaction,Very intuitive interface.,Positive,2026-06-27
+FB378,C093,F015,4,Reliability,Really improves productivity.,Positive,2026-04-19
+FB379,C093,F016,4,Reliability,Excellent experience.,Positive,2026-05-06
+FB380,C093,F019,5,Reliability,Very useful feature.,Positive,2026-04-02
+FB381,C094,F005,5,UI/UX,Really improves productivity.,Positive,2026-04-24
+FB382,C094,F010,4,UI/UX,Very useful feature.,Positive,2026-03-12
+FB383,C094,F014,5,Reliability,Great implementation.,Positive,2026-05-21
+FB384,C094,F017,5,Reliability,Very useful feature.,Positive,2026-04-23
+FB385,C095,F002,3,General Satisfaction,Satisfactory.,Neutral,2026-01-09
+FB386,C095,F005,4,General Satisfaction,Saves me a lot of time.,Positive,2026-02-23
+FB387,C095,F015,4,General Satisfaction,Very useful feature.,Positive,2026-05-26
+FB388,C095,F016,4,UI/UX,Works perfectly.,Positive,2026-03-16
+FB389,C096,F004,3,UI/UX,Works as expected.,Neutral,2026-03-12
+FB390,C096,F010,3,General Satisfaction,Good overall.,Neutral,2026-03-24
+FB391,C096,F017,5,General Satisfaction,Easy to use.,Positive,2026-04-14
+FB392,C097,F011,3,Reliability,Works as expected.,Neutral,2026-04-28
+FB393,C099,F001,4,Reliability,Great implementation.,Positive,2026-03-29
+FB394,C099,F007,3,UI/UX,Works as expected.,Neutral,2026-02-01
+FB395,C100,F001,5,General Satisfaction,Excellent experience.,Positive,2026-06-16
+FB396,C100,F002,3,UI/UX,Works as expected.,Neutral,2026-06-17
+FB397,C100,F008,3,Reliability,Good overall.,Neutral,2026-01-14
+FB398,C100,F010,3,General Satisfaction,Useful but could be improved.,Neutral,2026-06-17
+FB399,C100,F011,4,UI/UX,Easy to use.,Positive,2026-02-03
+FB400,C100,F018,4,UI/UX,Excellent experience.,Positive,2026-05-03
+FB401,C100,F020,4,General Satisfaction,Very intuitive interface.,Positive,2026-04-05
