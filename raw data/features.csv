@@ -1,0 +1,21 @@
+feature_id,feature_name,module,is_active
+F001,User Dashboard,Core,True
+F002,Data Import & Export,Core,True
+F003,AI Assistant Chat,AI,True
+F004,Predictive Insights,AI,True
+F005,Natural Language Query,AI,True
+F006,Custom Reports Builder,Analytics,True
+F007,Real-Time Analytics Dashboard,Analytics,True
+F008,KPI Scorecards,Analytics,True
+F009,Team Workspaces,Collaboration,True
+F010,Shared Annotations,Collaboration,True
+F011,Single Sign-On (SSO),Security,True
+F012,Role-Based Access Control,Security,True
+F013,Audit Log Viewer,Security,True
+F014,User Management,Administration,True
+F015,Billing & Subscription Management,Administration,True
+F016,Task Boards,Project Management,True
+F017,Milestone Tracking,Project Management,True
+F018,API Connectors,Integration,True
+F019,Webhook Automation,Integration,True
+F020,System Health Monitor,Monitoring,True
