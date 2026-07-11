@@ -1,0 +1,53 @@
+ticket_id,customer_id,feature_id,ticket_category,priority,status,assigned_team,description,created_at,resolved_at
+T001,C001,,Password Reset,High,In Progress,Customer Success,Login issue after password reset.,2026-06-23,
+T002,C001,,Account Management,Medium,Resolved,Customer Success,Account configuration assistance required.,2026-02-20,2026-03-03
+T003,C002,F014,Billing Question,Medium,Open,Finance,Billing clarification required.,2026-01-21,
+T004,C006,F007,Feature Request,Medium,Resolved,Product Team,Need additional export formats.,2026-02-24,2026-03-04
+T005,C008,F017,Bug Report,Medium,Resolved,Engineering,Observed inconsistent behaviour.,2026-03-10,2026-03-16
+T006,C011,F003,Feature Request,Medium,Open,Product Team,Please add more filtering options.,2026-03-20,
+T007,C011,F016,Bug Report,Medium,Resolved,Engineering,Observed inconsistent behaviour.,2026-05-02,2026-05-05
+T008,C018,F007,Performance Issue,Medium,Resolved,Engineering,Reports take too long to generate.,2026-04-27,2026-05-04
+T009,C019,F007,Bug Report,Medium,Resolved,Engineering,Observed inconsistent behaviour.,2026-01-15,2026-01-17
+T010,C019,,Account Management,Low,Resolved,Customer Success,Need help updating account information.,2026-05-26,2026-06-05
+T011,C022,,Account Management,Medium,Open,Customer Success,Need help updating account information.,2026-01-18,
+T012,C022,F019,Bug Report,High,Resolved,Engineering,Feature crashes occasionally.,2026-02-04,2026-02-06
+T013,C025,F002,Technical Support,Low,Resolved,Technical Support,Need assistance with integration.,2026-01-10,2026-01-20
+T014,C025,F005,Feature Request,Low,Open,Product Team,Would like more customization.,2026-01-11,
+T015,C027,F002,Bug Report,High,Open,Engineering,Observed inconsistent behaviour.,2026-06-21,
+T016,C031,F018,Technical Support,Medium,Resolved,Technical Support,Need help configuring the feature.,2026-06-21,2026-06-27
+T017,C032,F007,Feature Request,Medium,Resolved,Product Team,Would like more customization.,2026-03-25,2026-04-06
+T018,C033,F015,Billing Question,Medium,Resolved,Finance,Unexpected subscription charge.,2026-06-17,2026-06-25
+T019,C035,F001,Technical Support,Low,In Progress,Technical Support,Need assistance with integration.,2026-04-27,
+T020,C040,F007,Performance Issue,High,Resolved,Engineering,Reports take too long to generate.,2026-04-30,2026-05-01
+T021,C041,,Password Reset,Medium,In Progress,Customer Success,Login issue after password reset.,2026-04-18,
+T022,C041,,Password Reset,Medium,Resolved,Customer Success,Password reset email not received.,2026-02-12,2026-02-15
+T023,C044,F007,Feature Request,Medium,Resolved,Product Team,Please add more filtering options.,2026-06-16,2026-06-29
+T024,C044,,Password Reset,Low,Resolved,Customer Success,Unable to reset password.,2026-03-03,2026-03-11
+T025,C045,F015,Billing Question,Medium,Open,Finance,Billing clarification required.,2026-04-12,
+T026,C046,F009,Billing Question,Medium,Resolved,Finance,Unexpected subscription charge.,2026-06-15,2026-06-16
+T027,C048,F017,Performance Issue,High,Resolved,Engineering,Reports take too long to generate.,2026-03-08,2026-03-13
+T028,C049,F004,Technical Support,Medium,In Progress,Technical Support,Configuration guidance required.,2026-05-06,
+T029,C049,F015,Billing Question,Medium,Resolved,Finance,Unexpected subscription charge.,2026-05-29,2026-06-06
+T030,C052,F005,Feature Request,Medium,Open,Product Team,Would like more customization.,2026-06-13,
+T031,C052,F007,Performance Issue,High,Resolved,Engineering,Dashboard loads very slowly.,2026-03-29,2026-03-30
+T032,C054,F007,Feature Request,Medium,In Progress,Product Team,Please add more filtering options.,2026-06-10,
+T033,C055,,Password Reset,Medium,In Progress,Customer Success,Login issue after password reset.,2026-01-19,
+T034,C056,F016,Bug Report,High,In Progress,Engineering,Feature crashes occasionally.,2026-03-15,
+T035,C057,F009,Billing Question,Medium,Resolved,Finance,Question regarding invoice.,2026-01-24,2026-02-04
+T036,C058,F016,Bug Report,High,Resolved,Engineering,Unexpected application error.,2026-03-13,2026-03-23
+T037,C061,F003,Technical Support,Medium,Resolved,Technical Support,Need assistance with integration.,2026-05-13,2026-05-23
+T038,C067,F001,Bug Report,Medium,In Progress,Engineering,Observed inconsistent behaviour.,2026-04-09,
+T039,C068,,Account Management,Low,Open,Customer Success,Unable to modify account settings.,2026-01-20,
+T040,C071,,Password Reset,High,Resolved,Customer Success,Unable to reset password.,2026-04-21,2026-04-25
+T041,C072,F009,Bug Report,Medium,Resolved,Engineering,Unexpected application error.,2026-02-10,2026-02-18
+T042,C074,F005,Technical Support,Medium,Resolved,Technical Support,Configuration guidance required.,2026-06-25,2026-06-26
+T043,C076,F002,Bug Report,High,Resolved,Engineering,Unexpected application error.,2026-02-03,2026-02-08
+T044,C080,F007,Feature Request,Medium,Resolved,Product Team,Please add more filtering options.,2026-05-18,2026-05-25
+T045,C081,F015,Billing Question,Medium,Open,Finance,Question regarding invoice.,2026-04-03,
+T046,C085,,Password Reset,High,Resolved,Customer Success,Login issue after password reset.,2026-01-30,2026-02-01
+T047,C091,F005,Technical Support,Medium,Resolved,Technical Support,Need help configuring the feature.,2026-04-06,2026-04-15
+T048,C091,F006,Technical Support,Medium,Resolved,Technical Support,Need assistance with integration.,2026-04-16,2026-04-30
+T049,C093,,Account Management,Low,Resolved,Customer Success,Unable to modify account settings.,2026-02-16,2026-02-28
+T050,C095,,Account Management,Medium,Resolved,Customer Success,Unable to modify account settings.,2026-06-05,2026-06-12
+T051,C096,F015,Billing Question,Medium,Resolved,Finance,Unexpected subscription charge.,2026-03-07,2026-03-13
+T052,C100,,Account Management,Low,Resolved,Customer Success,Need help updating account information.,2026-02-13,2026-02-22
