@@ -1,0 +1,208 @@
+event_id,customer_id,event_type,severity,description,status,event_time
+E001,C001,Successful Login,Low,Login completed successfully.,Resolved,2026-01-27 21:47:00
+E002,C001,Successful Login,Low,User logged in successfully.,Resolved,2026-01-08 02:13:00
+E003,C001,Failed Login,Low,Authentication failed.,Resolved,2026-06-16 22:34:00
+E004,C001,Successful Login,Low,Successful authentication.,Resolved,2026-01-02 05:44:00
+E005,C002,MFA Enabled,Low,MFA activated successfully.,Resolved,2026-01-24 12:06:00
+E006,C003,Login From New Device,Medium,New browser/device identified.,Resolved,2026-04-07 02:35:00
+E007,C003,Login From New Device,Medium,Login detected from a new device.,Ignored,2026-05-28 06:45:00
+E008,C004,Successful Login,Low,Successful authentication.,Resolved,2026-03-01 03:24:00
+E009,C005,Successful Login,Low,Login completed successfully.,Resolved,2026-06-21 08:44:00
+E010,C006,Successful Login,Low,Successful authentication.,Resolved,2026-02-11 14:24:00
+E011,C007,Failed Login,Medium,Invalid password entered.,Resolved,2026-01-15 07:52:00
+E012,C007,Login From New Device,Low,Login detected from a new device.,Resolved,2026-05-26 22:20:00
+E013,C007,Password Reset Attempt,Low,Password reset requested.,Ignored,2026-04-28 04:16:00
+E014,C008,Successful Login,Low,User logged in successfully.,Resolved,2026-05-30 12:23:00
+E015,C009,Successful Login,Low,User logged in successfully.,Resolved,2026-01-29 04:40:00
+E016,C009,Login From New Device,Low,First login from this device.,Resolved,2026-04-08 19:29:00
+E017,C009,Successful Login,Low,User logged in successfully.,Resolved,2026-01-03 21:46:00
+E018,C009,Password Reset Attempt,Low,User initiated password reset.,Resolved,2026-06-14 10:07:00
+E019,C009,Successful Login,Low,User logged in successfully.,Resolved,2026-03-09 16:48:00
+E020,C009,Failed Login,Low,Invalid password entered.,Resolved,2026-06-13 16:38:00
+E021,C010,Failed Login,Medium,Authentication failed.,Resolved,2026-01-01 19:20:00
+E022,C011,Login From New Country,High,Foreign login attempt identified.,Investigating,2026-01-15 07:56:00
+E023,C012,Login From New Device,Medium,New browser/device identified.,Resolved,2026-02-02 04:42:00
+E024,C012,MFA Enabled,Low,Multi-factor authentication enabled.,Resolved,2026-05-16 19:27:00
+E025,C012,Session Timeout,Low,Automatic logout after timeout.,Resolved,2026-06-26 06:45:00
+E026,C012,Successful Login,Low,Login completed successfully.,Resolved,2026-04-06 14:57:00
+E027,C012,Failed Login,Low,Invalid password entered.,Resolved,2026-01-06 18:35:00
+E028,C013,Failed Login,Low,Invalid password entered.,Ignored,2026-03-26 02:32:00
+E029,C013,Successful Login,Low,Login completed successfully.,Resolved,2026-05-19 04:46:00
+E030,C013,Failed Login,Low,Invalid password entered.,Resolved,2026-04-15 06:06:00
+E031,C013,Password Reset Attempt,Low,Password recovery process started.,Resolved,2026-01-14 21:41:00
+E032,C013,Successful Login,Low,User logged in successfully.,Resolved,2026-03-28 03:15:00
+E033,C014,Successful Login,Low,Login completed successfully.,Resolved,2026-03-05 02:28:00
+E034,C015,Failed Login,Low,Authentication failed.,Resolved,2026-03-02 05:26:00
+E035,C016,Session Timeout,Low,Automatic logout after timeout.,Resolved,2026-01-01 12:16:00
+E036,C017,Password Reset Attempt,Medium,User initiated password reset.,Resolved,2026-05-05 04:12:00
+E037,C018,Failed Login,Medium,Incorrect credentials provided.,Resolved,2026-05-30 15:32:00
+E038,C018,Successful Login,Low,Login completed successfully.,Ignored,2026-01-21 05:04:00
+E039,C018,Successful Login,Low,Login completed successfully.,Ignored,2026-04-14 03:56:00
+E040,C018,Successful Login,Low,Login completed successfully.,Resolved,2026-06-08 02:26:00
+E041,C018,Failed Login,Medium,Authentication failed.,Ignored,2026-02-22 21:45:00
+E042,C019,Password Reset Attempt,Low,Password recovery process started.,Resolved,2026-01-19 00:29:00
+E043,C020,Successful Login,Low,Successful authentication.,Resolved,2026-03-09 04:59:00
+E044,C020,Session Timeout,Low,Automatic logout after timeout.,Ignored,2026-04-05 09:10:00
+E045,C020,Login From New Country,High,Foreign login attempt identified.,Resolved,2026-06-17 16:00:00
+E046,C021,Password Reset Attempt,Medium,Password recovery process started.,Resolved,2026-01-30 03:47:00
+E047,C021,Successful Login,Low,User logged in successfully.,Resolved,2026-02-23 22:21:00
+E048,C022,Failed Login,Low,Authentication failed.,Ignored,2026-01-14 02:40:00
+E049,C023,Login From New Device,Medium,New browser/device identified.,Resolved,2026-04-24 17:45:00
+E050,C023,Failed Login,Low,Invalid password entered.,Ignored,2026-06-26 04:34:00
+E051,C023,Login From New Country,Medium,Unexpected country detected.,Resolved,2026-02-02 01:19:00
+E052,C023,Session Timeout,Low,Inactive session terminated.,Resolved,2026-01-11 11:13:00
+E053,C023,Successful Login,Low,Login completed successfully.,Resolved,2026-05-24 13:39:00
+E054,C024,Login From New Country,High,Foreign login attempt identified.,Resolved,2026-04-16 00:11:00
+E055,C025,Successful Login,Low,Login completed successfully.,Resolved,2026-03-05 08:10:00
+E056,C025,Successful Login,Low,Successful authentication.,Ignored,2026-05-01 07:12:00
+E057,C026,Login From New Country,Medium,Login detected from another country.,Resolved,2026-04-13 10:17:00
+E058,C027,Failed Login,Low,Invalid password entered.,Ignored,2026-05-18 10:01:00
+E059,C027,Login From New Country,Medium,Foreign login attempt identified.,Resolved,2026-03-09 01:06:00
+E060,C027,Successful Login,Low,Login completed successfully.,Resolved,2026-03-22 13:38:00
+E061,C028,Successful Login,Low,Login completed successfully.,Resolved,2026-04-22 00:33:00
+E062,C029,Password Reset Attempt,Low,User initiated password reset.,Resolved,2026-06-20 10:39:00
+E063,C030,Failed Login,Medium,Invalid password entered.,Resolved,2026-06-28 09:35:00
+E064,C030,Successful Login,Low,User logged in successfully.,Resolved,2026-04-08 21:47:00
+E065,C030,Failed Login,Low,Invalid password entered.,Resolved,2026-01-01 09:18:00
+E066,C030,Successful Login,Low,Successful authentication.,Resolved,2026-06-17 10:29:00
+E067,C031,Failed Login,Medium,Authentication failed.,Resolved,2026-02-13 21:05:00
+E068,C032,Successful Login,Low,User logged in successfully.,Resolved,2026-03-02 21:19:00
+E069,C033,Successful Login,Low,Login completed successfully.,Resolved,2026-01-19 14:26:00
+E070,C033,Failed Login,Medium,Incorrect credentials provided.,Resolved,2026-04-13 07:09:00
+E071,C033,Password Reset Attempt,Medium,Password reset requested.,Ignored,2026-01-28 13:14:00
+E072,C033,Login From New Device,Medium,Login detected from a new device.,Resolved,2026-05-23 07:58:00
+E073,C034,Password Reset Attempt,Medium,Password recovery process started.,Resolved,2026-04-24 19:52:00
+E074,C035,Session Timeout,Low,Automatic logout after timeout.,Resolved,2026-02-10 23:55:00
+E075,C035,Failed Login,Medium,Incorrect credentials provided.,Resolved,2026-03-12 16:31:00
+E076,C036,Password Reset Attempt,Low,Password reset requested.,Resolved,2026-05-19 02:08:00
+E077,C037,Password Reset Attempt,Low,Password reset requested.,Resolved,2026-05-19 14:26:00
+E078,C038,Session Timeout,Low,Inactive session terminated.,Resolved,2026-06-28 00:54:00
+E079,C039,Successful Login,Low,Login completed successfully.,Resolved,2026-04-18 17:47:00
+E080,C039,Failed Login,Medium,Authentication failed.,Resolved,2026-02-26 08:27:00
+E081,C039,Successful Login,Low,User logged in successfully.,Resolved,2026-06-23 12:46:00
+E082,C039,Login From New Country,High,Unexpected country detected.,Resolved,2026-05-17 00:58:00
+E083,C040,Successful Login,Low,Successful authentication.,Resolved,2026-04-29 05:03:00
+E084,C041,Successful Login,Low,Successful authentication.,Resolved,2026-04-08 08:48:00
+E085,C042,Password Reset Attempt,Low,Password recovery process started.,Ignored,2026-02-27 20:04:00
+E086,C042,Successful Login,Low,User logged in successfully.,Resolved,2026-03-05 06:53:00
+E087,C042,Failed Login,Low,Authentication failed.,Resolved,2026-01-30 18:13:00
+E088,C043,Successful Login,Low,User logged in successfully.,Resolved,2026-01-30 05:19:00
+E089,C044,Failed Login,Medium,Incorrect credentials provided.,Resolved,2026-02-20 02:37:00
+E090,C045,Password Reset Attempt,Low,Password reset requested.,Resolved,2026-01-31 18:50:00
+E091,C045,Successful Login,Low,Login completed successfully.,Resolved,2026-04-05 02:32:00
+E092,C046,Login From New Device,Low,Login detected from a new device.,Ignored,2026-06-12 14:45:00
+E093,C047,MFA Failed,Medium,Incorrect verification code.,Resolved,2026-05-18 15:29:00
+E094,C048,Successful Login,Low,Successful authentication.,Resolved,2026-01-23 08:56:00
+E095,C048,Successful Login,Low,Successful authentication.,Resolved,2026-06-06 21:24:00
+E096,C049,Successful Login,Low,Login completed successfully.,Resolved,2026-03-08 10:17:00
+E097,C050,Successful Login,Low,Successful authentication.,Ignored,2026-01-22 07:46:00
+E098,C050,Failed Login,Medium,Authentication failed.,Resolved,2026-06-15 22:31:00
+E099,C051,Successful Login,Low,Successful authentication.,Resolved,2026-06-19 18:23:00
+E100,C051,Failed Login,Low,Incorrect credentials provided.,Ignored,2026-05-21 10:22:00
+E101,C051,Failed Login,Low,Incorrect credentials provided.,Resolved,2026-02-19 10:07:00
+E102,C051,Failed Login,Medium,Authentication failed.,Resolved,2026-02-25 23:30:00
+E103,C052,Failed Login,Low,Authentication failed.,Resolved,2026-02-19 09:14:00
+E104,C052,Successful Login,Low,User logged in successfully.,Resolved,2026-05-17 04:17:00
+E105,C053,Password Reset Attempt,Low,Password reset requested.,Ignored,2026-05-06 03:55:00
+E106,C053,Failed Login,Medium,Authentication failed.,Resolved,2026-02-17 01:16:00
+E107,C053,Successful Login,Low,Login completed successfully.,Resolved,2026-05-06 02:36:00
+E108,C054,Login From New Device,Medium,New browser/device identified.,Resolved,2026-03-05 03:35:00
+E109,C055,Successful Login,Low,Login completed successfully.,Resolved,2026-04-26 14:19:00
+E110,C056,Failed Login,Medium,Authentication failed.,Resolved,2026-02-23 20:13:00
+E111,C056,Password Reset Attempt,Low,User initiated password reset.,Resolved,2026-01-20 05:00:00
+E112,C056,Failed Login,Medium,Authentication failed.,Resolved,2026-03-01 09:45:00
+E113,C057,Password Reset Attempt,Medium,Password reset requested.,Resolved,2026-06-10 18:42:00
+E114,C057,Successful Login,Low,Successful authentication.,Resolved,2026-06-15 04:58:00
+E115,C058,Login From New Device,Low,New browser/device identified.,Resolved,2026-03-15 14:07:00
+E116,C058,Password Reset Attempt,Low,User initiated password reset.,Ignored,2026-05-09 17:31:00
+E117,C058,Successful Login,Low,Login completed successfully.,Resolved,2026-04-21 23:20:00
+E118,C058,Successful Login,Low,User logged in successfully.,Resolved,2026-06-22 18:37:00
+E119,C059,Successful Login,Low,Login completed successfully.,Resolved,2026-02-14 15:33:00
+E120,C059,Successful Login,Low,Successful authentication.,Resolved,2026-05-30 13:40:00
+E121,C059,MFA Failed,Medium,MFA verification failed.,Resolved,2026-03-24 21:06:00
+E122,C060,Successful Login,Low,User logged in successfully.,Ignored,2026-05-21 01:29:00
+E123,C061,MFA Failed,Medium,Second factor authentication failed.,Resolved,2026-01-01 21:55:00
+E124,C062,Successful Login,Low,User logged in successfully.,Resolved,2026-06-10 14:48:00
+E125,C062,Successful Login,Low,Login completed successfully.,Resolved,2026-03-15 14:56:00
+E126,C062,Failed Login,Low,Authentication failed.,Resolved,2026-03-03 22:10:00
+E127,C062,Failed Login,Medium,Incorrect credentials provided.,Resolved,2026-01-30 14:07:00
+E128,C062,Login From New Country,Medium,Unexpected country detected.,Resolved,2026-05-11 22:17:00
+E129,C063,Successful Login,Low,Login completed successfully.,Resolved,2026-04-09 06:58:00
+E130,C063,Failed Login,Medium,Incorrect credentials provided.,Ignored,2026-03-12 13:21:00
+E131,C064,Successful Login,Low,User logged in successfully.,Resolved,2026-06-18 15:55:00
+E132,C064,Successful Login,Low,Login completed successfully.,Resolved,2026-03-27 17:48:00
+E133,C064,Successful Login,Low,Login completed successfully.,Ignored,2026-02-18 22:15:00
+E134,C064,Successful Login,Low,Login completed successfully.,Ignored,2026-04-16 01:20:00
+E135,C064,Failed Login,Medium,Authentication failed.,Resolved,2026-06-19 20:09:00
+E136,C065,Successful Login,Low,Successful authentication.,Resolved,2026-04-23 03:33:00
+E137,C065,Successful Login,Low,Successful authentication.,Resolved,2026-06-17 04:04:00
+E138,C065,Login From New Device,Low,New browser/device identified.,Resolved,2026-04-12 20:05:00
+E139,C065,Login From New Country,High,Unexpected country detected.,Investigating,2026-03-23 20:45:00
+E140,C065,Login From New Country,Medium,Unexpected country detected.,Resolved,2026-06-11 21:58:00
+E141,C065,Account Locked,High,Too many failed login attempts.,Resolved,2026-04-22 03:48:00
+E142,C065,Password Reset Attempt,Low,User initiated password reset.,Resolved,2026-03-18 00:02:00
+E143,C066,Successful Login,Low,Login completed successfully.,Resolved,2026-05-16 13:36:00
+E144,C066,Login From New Device,Low,Login detected from a new device.,Resolved,2026-04-08 19:43:00
+E145,C067,Successful Login,Low,User logged in successfully.,Resolved,2026-04-28 08:42:00
+E146,C068,Successful Login,Low,Login completed successfully.,Resolved,2026-01-19 14:22:00
+E147,C068,Successful Login,Low,Successful authentication.,Ignored,2026-06-26 08:29:00
+E148,C069,Failed Login,Low,Authentication failed.,Resolved,2026-05-28 09:44:00
+E149,C070,Successful Login,Low,Login completed successfully.,Resolved,2026-06-25 23:03:00
+E150,C071,Session Timeout,Low,Automatic logout after timeout.,Resolved,2026-02-28 19:51:00
+E151,C071,Successful Login,Low,Login completed successfully.,Resolved,2026-03-06 21:48:00
+E152,C072,Successful Login,Low,Successful authentication.,Resolved,2026-06-10 20:02:00
+E153,C072,Login From New Device,Low,New browser/device identified.,Resolved,2026-02-03 02:58:00
+E154,C073,Successful Login,Low,Successful authentication.,Resolved,2026-04-04 16:32:00
+E155,C074,Login From New Device,Low,Login detected from a new device.,Resolved,2026-03-28 03:29:00
+E156,C074,Successful Login,Low,Successful authentication.,Ignored,2026-06-23 23:43:00
+E157,C075,Successful Login,Low,User logged in successfully.,Resolved,2026-01-04 08:34:00
+E158,C075,Failed Login,Medium,Incorrect credentials provided.,Resolved,2026-05-30 12:52:00
+E159,C075,MFA Enabled,Low,Security settings updated.,Resolved,2026-03-01 15:01:00
+E160,C076,Session Timeout,Low,Automatic logout after timeout.,Resolved,2026-01-17 20:52:00
+E161,C076,Session Timeout,Low,Session expired due to inactivity.,Resolved,2026-04-15 03:08:00
+E162,C077,Failed Login,Low,Authentication failed.,Ignored,2026-02-04 12:29:00
+E163,C077,Password Reset Attempt,Medium,Password recovery process started.,Ignored,2026-04-18 18:47:00
+E164,C078,Successful Login,Low,Login completed successfully.,Resolved,2026-04-15 08:02:00
+E165,C079,MFA Enabled,Low,Security settings updated.,Ignored,2026-01-26 21:23:00
+E166,C080,Successful Login,Low,Login completed successfully.,Resolved,2026-02-01 14:05:00
+E167,C080,Successful Login,Low,Successful authentication.,Resolved,2026-01-06 01:50:00
+E168,C081,Successful Login,Low,User logged in successfully.,Resolved,2026-05-22 06:37:00
+E169,C081,Login From New Device,Low,Login detected from a new device.,Resolved,2026-06-02 00:17:00
+E170,C081,Suspicious IP,High,Login attempt from suspicious IP.,Resolved,2026-01-29 21:55:00
+E171,C081,Successful Login,Low,User logged in successfully.,Resolved,2026-03-02 18:20:00
+E172,C081,Successful Login,Low,Login completed successfully.,Resolved,2026-04-18 16:07:00
+E173,C082,Successful Login,Low,Login completed successfully.,Resolved,2026-04-26 16:14:00
+E174,C083,Login From New Country,Medium,Unexpected country detected.,Resolved,2026-01-08 01:30:00
+E175,C084,Session Timeout,Low,Session expired due to inactivity.,Resolved,2026-01-21 10:38:00
+E176,C084,Successful Login,Low,Login completed successfully.,Resolved,2026-06-12 18:35:00
+E177,C084,Successful Login,Low,Login completed successfully.,Ignored,2026-05-16 09:29:00
+E178,C084,Failed Login,Low,Incorrect credentials provided.,Resolved,2026-06-17 20:56:00
+E179,C084,Password Reset Attempt,Low,User initiated password reset.,Resolved,2026-02-28 13:21:00
+E180,C085,Successful Login,Low,Login completed successfully.,Resolved,2026-03-07 11:09:00
+E181,C086,Successful Login,Low,User logged in successfully.,Resolved,2026-04-06 04:35:00
+E182,C086,Failed Login,Medium,Incorrect credentials provided.,Resolved,2026-02-01 13:22:00
+E183,C086,MFA Enabled,Low,MFA activated successfully.,Resolved,2026-01-14 09:38:00
+E184,C086,Successful Login,Low,Successful authentication.,Resolved,2026-02-24 04:42:00
+E185,C087,Successful Login,Low,Successful authentication.,Resolved,2026-05-27 07:51:00
+E186,C087,Login From New Country,High,Foreign login attempt identified.,Resolved,2026-06-07 21:41:00
+E187,C087,Successful Login,Low,User logged in successfully.,Ignored,2026-06-27 08:01:00
+E188,C087,Successful Login,Low,User logged in successfully.,Resolved,2026-03-28 11:00:00
+E189,C087,Login From New Country,Medium,Login detected from another country.,Resolved,2026-02-06 23:40:00
+E190,C088,Successful Login,Low,Login completed successfully.,Resolved,2026-02-10 11:19:00
+E191,C089,Failed Login,Medium,Invalid password entered.,Resolved,2026-06-08 01:43:00
+E192,C090,Failed Login,Low,Authentication failed.,Resolved,2026-05-12 03:22:00
+E193,C091,Failed Login,Medium,Invalid password entered.,Resolved,2026-02-26 12:38:00
+E194,C092,Successful Login,Low,User logged in successfully.,Resolved,2026-03-07 09:20:00
+E195,C093,Successful Login,Low,Login completed successfully.,Resolved,2026-06-30 07:32:00
+E196,C094,Successful Login,Low,Successful authentication.,Ignored,2026-01-11 13:01:00
+E197,C094,Session Timeout,Low,Automatic logout after timeout.,Ignored,2026-05-28 13:36:00
+E198,C095,Successful Login,Low,Login completed successfully.,Resolved,2026-03-25 05:51:00
+E199,C095,Failed Login,Medium,Authentication failed.,Resolved,2026-04-22 03:15:00
+E200,C096,Successful Login,Low,User logged in successfully.,Resolved,2026-03-28 07:21:00
+E201,C097,Failed Login,Low,Incorrect credentials provided.,Resolved,2026-03-31 23:52:00
+E202,C098,Successful Login,Low,Login completed successfully.,Resolved,2026-06-04 04:48:00
+E203,C098,Successful Login,Low,Login completed successfully.,Ignored,2026-06-10 15:29:00
+E204,C099,Session Timeout,Low,Inactive session terminated.,Resolved,2026-06-12 19:20:00
+E205,C099,Successful Login,Low,Successful authentication.,Resolved,2026-05-01 14:40:00
+E206,C100,Successful Login,Low,User logged in successfully.,Resolved,2026-04-29 14:02:00
+E207,C100,Successful Login,Low,Login completed successfully.,Resolved,2026-06-15 02:39:00
