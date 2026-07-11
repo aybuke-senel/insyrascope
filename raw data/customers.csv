@@ -1,0 +1,101 @@
+customer_id,first_name,last_name,email,country,subscription_plan,customer_status,signup_date
+C001,Felicitas,Dowerg,felicitas.dowerg@gmail.com,Germany,Pro,Active,2023-10-13
+C002,Angel,Hill,angel.hill@gmail.com,Canada,Pro,Active,2023-07-11
+C003,Jeffrey,Doyle,jeffrey.doyle@gmail.com,United States,Pro,Inactive,2026-01-21
+C004,Erica,Mcclain,erica.mcclain@yahoo.com,United States,Pro,Inactive,2023-01-14
+C005,Christopher,Henderson,christopher.henderson@outlook.com,Canada,Pro,Active,2023-11-15
+C006,Anthony,Robinson,anthony.robinson@hotmail.com,United States,Basic,Active,2025-01-05
+C007,Amina,Blonk,amina.blonk@hotmail.com,Netherlands,Enterprise,Inactive,2026-01-03
+C008,Anna,Baldwin,anna.baldwin@yahoo.com,United States,Basic,Active,2026-06-20
+C009,Jacqueline,Barnes,jacqueline.barnes@hotmail.com,Australia,Pro,Inactive,2023-04-04
+C010,Tom,Schacht,tom.schacht@hotmail.com,Germany,Enterprise,Inactive,2023-07-26
+C011,Joshua,Booth,joshua.booth@yahoo.com,United States,Pro,Active,2025-01-28
+C012,Katherine,Moore,katherine.moore@hotmail.com,United States,Pro,Active,2023-05-27
+C013,Sigismund,Karge,sigismund.karge@outlook.com,Germany,Pro,Active,2025-08-04
+C014,Joshua,Lewis,joshua.lewis@outlook.com,United States,Pro,Inactive,2023-04-25
+C015,Kathryn,Garcia,kathryn.garcia@gmail.com,United States,Enterprise,Active,2023-05-16
+C016,Noah,Howard,noah.howard@hotmail.com,United States,Basic,Active,2025-07-28
+C017,Maurice,Baker,maurice.baker@outlook.com,United States,Basic,Active,2024-06-22
+C018,Bradley,Stevens,bradley.stevens@yahoo.com,Canada,Enterprise,Active,2024-03-25
+C019,David,Nielsen,david.nielsen@outlook.com,Singapore,Pro,Active,2023-04-07
+C020,Christian,Carter,christian.carter@outlook.com,Australia,Pro,Inactive,2025-05-14
+C021,Ester,Schönland,ester.schonland@yahoo.com,Germany,Basic,Churned,2025-12-19
+C022,Nicole,Ward,nicole.ward@gmail.com,United States,Pro,Active,2026-01-04
+C023,James,Jones,james.jones@hotmail.com,Canada,Basic,Active,2025-07-18
+C024,Sidar,Bilgin,sidar.bilgin@hotmail.com,Türkiye,Enterprise,Inactive,2025-11-05
+C025,Kendra,Galloway,kendra.galloway@hotmail.com,Australia,Enterprise,Active,2024-02-12
+C026,Melissa,Delacruz,melissa.delacruz@outlook.com,United States,Pro,Inactive,2025-12-22
+C027,Norman,Chavez,norman.chavez@hotmail.com,Australia,Pro,Active,2025-01-13
+C028,Mary,Martin,mary.martin@hotmail.com,Australia,Basic,Active,2026-03-07
+C029,Michael,Santiago,michael.santiago@gmail.com,Australia,Pro,Inactive,2025-12-26
+C030,Jacqueline,Sutton,jacqueline.sutton@outlook.com,Canada,Pro,Churned,2023-12-05
+C031,Charles,Reid,charles.reid@yahoo.com,United States,Enterprise,Churned,2024-02-16
+C032,Amanda,Sanchez,amanda.sanchez@yahoo.com,Canada,Enterprise,Active,2025-06-16
+C033,Steven,Nelson,steven.nelson@yahoo.com,Australia,Basic,Active,2024-11-23
+C034,Safinaz,Sezer,safinaz.sezer@outlook.com,Türkiye,Pro,Active,2023-05-01
+C035,Angela,Cohen,angela.cohen@gmail.com,United States,Enterprise,Active,2024-05-02
+C036,Megan,Parsons,megan.parsons@yahoo.com,United States,Basic,Active,2026-03-15
+C037,Bernard,Fuller,bernard.fuller@outlook.com,United Kingdom,Pro,Inactive,2024-01-25
+C038,Linda,Morales,linda.morales@yahoo.com,United States,Basic,Active,2023-04-21
+C039,Celal,Hahn,celal.hahn@gmail.com,Germany,Basic,Inactive,2023-08-12
+C040,Robin,Bradley,robin.bradley@outlook.com,United States,Pro,Active,2024-01-11
+C041,Jennifer,Lewis,jennifer.lewis@outlook.com,United States,Enterprise,Active,2026-02-01
+C042,Victor,Wilkerson,victor.wilkerson@gmail.com,United States,Enterprise,Churned,2024-04-29
+C043,Dawn,Thomas,dawn.thomas@yahoo.com,United States,Pro,Inactive,2023-05-01
+C044,Donald,Mcgee,donald.mcgee@gmail.com,United States,Enterprise,Active,2025-07-20
+C045,Amber,Burgess,amber.burgess@yahoo.com,United States,Basic,Active,2023-04-30
+C046,Anne,Bartlett,anne.bartlett@gmail.com,United Kingdom,Pro,Active,2026-04-11
+C047,Tracey,Evans,tracey.evans@outlook.com,United Kingdom,Basic,Active,2024-01-16
+C048,Eyyüp,Zorlu,eyyup.zorlu@gmail.com,Türkiye,Pro,Active,2023-09-03
+C049,Trevor,Campos,trevor.campos@outlook.com,Australia,Pro,Active,2023-06-17
+C050,Michelle,Hernandez,michelle.hernandez@hotmail.com,United States,Enterprise,Active,2024-10-05
+C051,Ernest,Becker,ernest.becker@yahoo.com,United States,Basic,Active,2025-07-25
+C052,Candace,Cruz,candace.cruz@gmail.com,United States,Basic,Active,2026-02-27
+C053,Caitlin,Mcdonald,caitlin.mcdonald@gmail.com,Singapore,Pro,Active,2023-09-29
+C054,John,Tran,john.tran@gmail.com,Australia,Enterprise,Active,2023-11-20
+C055,Mark,Davies,mark.davies@hotmail.com,United Kingdom,Pro,Churned,2025-12-19
+C056,Eflâtun,Tarhan,eflatun.tarhan@hotmail.com,Türkiye,Enterprise,Active,2023-10-03
+C057,Nicole,Potter,nicole.potter@gmail.com,United States,Pro,Active,2024-07-31
+C058,Kristine,Segebahn,kristine.segebahn@hotmail.com,Germany,Basic,Active,2024-06-24
+C059,Maurice,Griffiths,maurice.griffiths@hotmail.com,United Kingdom,Enterprise,Inactive,2023-07-09
+C060,Sylvio,Franke,sylvio.franke@hotmail.com,Germany,Basic,Active,2023-09-25
+C061,Udo,Adler,udo.adler@hotmail.com,Germany,Basic,Active,2025-05-25
+C062,Marcus,Page,marcus.page@gmail.com,United Kingdom,Basic,Inactive,2023-11-02
+C063,Antony,Buckley,antony.buckley@hotmail.com,United Kingdom,Pro,Active,2023-09-19
+C064,Dolun,Bilge,dolun.bilge@hotmail.com,Türkiye,Enterprise,Inactive,2023-03-23
+C065,Colleen,Skinner,colleen.skinner@outlook.com,Australia,Pro,Active,2024-12-25
+C066,William,Gonzalez,william.gonzalez@yahoo.com,Canada,Enterprise,Inactive,2024-04-29
+C067,Nathaniel,Martin,nathaniel.martin@outlook.com,Australia,Enterprise,Active,2024-11-11
+C068,Stephanie,Nielsen,stephanie.nielsen@yahoo.com,Canada,Enterprise,Inactive,2024-05-23
+C069,Samantha,George,samantha.george@gmail.com,United States,Basic,Active,2025-08-21
+C070,Tracy,Rodriguez,tracy.rodriguez@yahoo.com,United States,Basic,Inactive,2024-04-11
+C071,Michael,Galloway,michael.galloway@outlook.com,United States,Basic,Active,2023-05-23
+C072,Lindsay,Allen,lindsay.allen@hotmail.com,Singapore,Basic,Active,2026-01-03
+C073,John,Bradley,john.bradley@gmail.com,United States,Basic,Churned,2024-01-01
+C074,Damian,Caspar,damian.caspar@hotmail.com,Germany,Basic,Active,2024-12-08
+C075,Jessica,Cabrera,jessica.cabrera@hotmail.com,Canada,Basic,Churned,2023-08-25
+C076,Tiffany,Patel,tiffany.patel@outlook.com,United States,Basic,Inactive,2023-01-04
+C077,Malcolm,Clarke,malcolm.clarke@outlook.com,United Kingdom,Basic,Active,2024-11-07
+C078,Willibald,Rogner,willibald.rogner@gmail.com,Germany,Pro,Active,2024-09-25
+C079,Guenter,Hettner,guenter.hettner@hotmail.com,Germany,Basic,Active,2023-09-18
+C080,Allison,Obrien,allison.obrien@yahoo.com,United States,Pro,Churned,2026-06-14
+C081,Phillip,Murray,phillip.murray@yahoo.com,United Kingdom,Pro,Active,2024-08-10
+C082,Karina,Vaughn,karina.vaughn@hotmail.com,United States,Pro,Active,2024-03-13
+C083,Graeme,Matthews,graeme.matthews@outlook.com,United Kingdom,Pro,Active,2026-06-22
+C084,Emily,Brooks,emily.brooks@outlook.com,United States,Pro,Active,2024-02-12
+C085,Rachel,Hayes,rachel.hayes@gmail.com,United States,Basic,Active,2023-05-30
+C086,Louis,Wilson,louis.wilson@outlook.com,United Kingdom,Pro,Active,2025-03-29
+C087,Matthew,Chapman,matthew.chapman@gmail.com,United States,Enterprise,Inactive,2023-08-07
+C088,Jerry,Robinson,jerry.robinson@outlook.com,Canada,Basic,Churned,2025-11-26
+C089,Steven,Walters,steven.walters@outlook.com,United Kingdom,Enterprise,Active,2023-10-01
+C090,Bryan,Oennen,bryan.oennen@hotmail.com,Netherlands,Enterprise,Inactive,2026-06-08
+C091,Colin,Borman,colin.borman@yahoo.com,Netherlands,Enterprise,Active,2023-11-22
+C092,Michele,Jones,michele.jones@yahoo.com,Canada,Pro,Inactive,2024-07-21
+C093,John,Caldwell,john.caldwell@yahoo.com,Canada,Pro,Active,2023-06-08
+C094,Jason,Anderson,jason.anderson@outlook.com,Canada,Basic,Active,2026-01-11
+C095,Selena,Duncan,selena.duncan@outlook.com,United States,Basic,Active,2024-03-14
+C096,Bitül,Yüksel,bitul.yuksel@yahoo.com,Türkiye,Basic,Active,2023-05-08
+C097,Kristen,Aguirre,kristen.aguirre@yahoo.com,United States,Basic,Inactive,2023-02-10
+C098,Jonathan,Geneart,jonathan.geneart@yahoo.com,Netherlands,Pro,Churned,2024-09-03
+C099,Collin,Jordan,collin.jordan@yahoo.com,Canada,Pro,Inactive,2026-05-20
+C100,Rodney,Owens,rodney.owens@yahoo.com,Australia,Basic,Active,2023-03-01
