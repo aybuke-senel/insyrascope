@@ -14,6 +14,6 @@ AI-powered Customer, Product & Risk Intelligence Assistant built with Microsoft 
 
 - Python
 - Microsoft Foundry Local
-- SQLite
+- SQL
 - RAG
 - GitHub
